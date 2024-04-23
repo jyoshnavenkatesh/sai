@@ -1,0 +1,300 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.img{
+    background-image: url("/assets/uploads/images/metro\ network.jpg");
+    height: 600px;
+    /* width: 100%; */
+    background-size: cover;
+}
+.h1{
+    position: absolute;
+    margin-left: 7%;
+    margin-top: 23%;
+    color: white;
+    font-size: 40px;
+}
+.p1{
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 7%;
+    color: white;
+}
+.Metro{
+    padding-left: 7%;
+}
+.p2{
+    padding-left: 7%;
+}
+.label1{
+    padding-left: 7%;
+}
+.place{
+    width: 350px;
+    height: 50px;
+    
+    
+}
+.submit{
+    width: 90px;
+    height: 50px;
+    background-color: rgb(30, 126, 30);
+    border-style: none;
+}
+.p3{
+    padding-left: 7%;
+    color: gray;
+    font-style: italic;
+}
+.p4{
+    padding-left: 7%;
+}
+.span{
+    color: grey;
+}
+.p5{
+    padding-left: 7%;
+    /* margin-top: -5px; */
+}
+.p6{
+    padding-left: 10%;
+    color: grey;
+}
+.level{
+    padding-left: 7%;
+}
+.p7{
+    margin-left: 100px;
+}
+.Area{
+    margin-left: 100px;
+}
+.list{
+    margin-left: 120px;
+}
+.detail{
+    margin-left: 100px;
+}
+.parking{
+    margin-left: 105px;
+}
+.concourse{
+    margin-left: 98px;
+}
+.p8{
+    margin-left: 110px;
+}
+.platform{
+    margin-left: 100px;
+}
+.p9{
+    margin-left: 110px;
+}
+@media screen and (max-width: 1025px){
+    .img{
+        height: 400px;
+    }
+    .h1{
+        margin-left: 10px;
+    }
+    .p1{
+        margin-left: 10px;
+    }
+    .Metro{
+        margin-left: -50px;
+    }
+    .p2{
+        margin-left: -50px;
+    }
+    .label1{
+        margin-left: -50px;
+    }
+    .p3{
+        margin-left: -50px;
+    }
+    .p4{
+        margin-left: -50px;
+    }
+    .p5{
+        margin-left: -50px;
+    }
+    .p6{
+        margin-left: -50px;
+    }
+    .level{
+        margin-left: -50px;
+    }
+    .p7{
+        margin-left: 25px;
+    }
+    .Area{
+        margin-left: 20px;
+    }
+    .list{
+        margin-left: 40px;
+    }
+    .detail{
+        margin-left: 20px;
+    }
+    .parking{
+        margin-left: 40px;
+    }
+    .concourse{
+        margin-left: 20px;
+
+    }
+    .p8{
+        margin-left: 25px;
+    }
+    .platform{
+        margin-left: 20px;
+    }
+    .p9{
+        margin-left: 25px;
+    }
+
+    }
+@media screen and (max-width: 769px){
+        .img{
+            height: 300px;
+        }
+        .h1{
+            margin-left: 10px;
+            
+        }
+        .p1{
+            margin-left: 10px;
+            padding-top: 20px;
+        }
+        .Metro{
+            margin-left: -50px;
+        }
+        .p2{
+            margin-left: -50px;
+        }
+        .label1{
+            margin-left: -50px;
+        }
+        .p3{
+            margin-left: -50px;
+        }
+        .p4{
+            margin-left: -50px;
+        }
+        .p5{
+            margin-left: -50px;
+        }
+        .p6{
+            margin-left: -50px;
+        }
+        .level{
+            margin-left: -50px;
+        }
+        .p7{
+            margin-left: 10px;
+        }
+        .Area{
+            margin-left: 10px;
+        }
+        .list{
+            margin-left: 25px;
+        }
+        .detail{
+            margin-left: 10px;
+        }
+        .parking{
+            margin-left: 25px;
+        }
+        .concourse{
+            margin-left: 10px;
+    
+        }
+        .p8{
+            margin-left: 15px;
+        }
+        .platform{
+            margin-left: 10px;
+        }
+        .p9{
+            margin-left: 15px;
+        }
+    
+        }
+ @media screen and (max-width: 426px){
+    
+        .img{
+            height: 400px;
+        }
+        .h1{
+            margin-left: 10px;
+        }
+        .p1{
+            margin-left: 10px;
+        }
+        .Metro{
+            margin-left: -20px;
+        }
+        .p2{
+            margin-left: -20px;
+        }
+        .label1{
+            margin-left: -20px;
+        }
+        .p3{
+            margin-left: -20px;
+        }
+        .p4{
+            margin-left: -20px;
+        }
+        .p5{
+            margin-left: -20px;
+        }
+        .p6{
+            margin-left: -20px;
+        }
+        .level{
+            margin-left: -20px;
+        }
+        .p7{
+            margin-left: 15px;
+        }
+        .Area{
+            margin-left: 20px;
+        }
+        .list{
+            margin-left: 40px;
+        }
+        .detail{
+            margin-left: 20px;
+        }
+        .parking{
+            margin-left: 40px;
+        }
+        .concourse{
+            margin-left: 20px;
+    
+        }
+        .p8{
+            margin-left: 25px;
+        }
+        .platform{
+            margin-left: 20px;
+        }
+        .p9{
+            margin-left: 25px;
+        }
+    }
+    
+    
+        
+
+    
+
+
+
+
+
+

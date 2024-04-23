@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.img{
+    background-image: url("/assets/uploads/images/metro\ network.jpg");
+    height: 500px;
+    /* width: 1500px; */
+    background-size: cover;
+    
+}
+.h1{
+    position: absolute; 
+    margin-left: 10px;
+    margin-top: 230px;
+    color: white;
+    font-size: 50px;
+}
+.p1{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 10px;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.Metro{
+    padding-left: 7%;
+}
+.map{
+    width: 700px;
+    height: 700px;
+    margin-left: 26%;
+}
+.view{
+    margin-left: 620px;
+    width: 200px;
+    height: 40px;
+    
+}
+button:hover{
+    background-color: blue;
+}
+@media screen and (max-width: 1025px){
+    .img{
+        width: 1000px;
+    }
+    .map{
+        width: 700px;
+        height: 800px;
+        margin-left: 150px;
+    }
+     .view{
+        width: 300px;
+        height: 60px;
+        margin-left: 320px;
+        }
+    }
+    @media screen and (max-width: 426px){
+        .h1{
+            font-size: 40px;
+            
+        }
+    }
+
+
+
+
+
+

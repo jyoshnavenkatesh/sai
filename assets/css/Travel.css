@@ -1,0 +1,205 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bgj1{
+    background-image: url('/assets/uploads/images/metro\ timings.jpg');
+    height: 500px;
+    background-size: cover;
+
+} 
+ .j1{
+    color: white;
+    /* position: absolute; */
+
+     padding-top:150px ;
+    bottom: 50%;
+    right: 75%;
+    font-size: 40px;
+    list-style-type: none;
+  }
+  .Hyderabad>p{
+    text-align: center;
+
+  }
+
+ .h2{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+} 
+ .image6{ 
+    display: flex;
+}
+.class7 .Exit{
+    /* color: blue; */
+    margin-top: 30px;
+
+}
+.class7 .p7{
+    margin-top: 30px;
+}
+.statement1{
+    margin-left: 400px;
+    
+    font-size: 30px;
+    padding-top: 50px;
+    
+}
+.statement1>ul>li{
+    list-style-type: none;
+    padding-bottom: 50px;
+}
+.statement1>ul>li>a{
+    color: white;
+    text-decoration: none;
+}
+ .statement2{
+    margin-left: 850px;
+    color: white;
+    font-size: 30px;
+    margin-top: -250px;
+
+} 
+.statement2>ul>li{
+    list-style-type: none;
+    padding-bottom: 50px;
+
+}
+.statement2>ul>li>a{
+    color: white; 
+    text-decoration: none;
+
+}
+.class2{
+    display: flex;
+}
+.station{
+    margin-top: 80px;
+}
+.station>h2{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+}
+.station>.p2{
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 10px;
+}
+.image1>img{
+  margin-right: 10px;
+}
+
+.image2{
+    display: flex;
+}
+.class3 .Ticket{
+   margin-top:40px ;
+   margin-left: 130px;
+   
+   
+}
+
+.class4{
+    display: flex;
+}
+.class4 .platform{
+    margin-top: 40px;
+    margin-left:70px ;
+    text-align: justify;
+}
+.Metro{
+    display: flex;
+}
+.class6{
+    display: flex;
+}
+.class6 .Desti{
+    margin-top: 40px;
+}
+.class6 .p6{
+    margin-top: 30px;
+}
+.class5 .train{
+    margin-top: 30px;
+}
+.class5 .p5{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+@media screen and (max-width: 1025px){
+    .bgj1{
+        width: 1000px;
+    }
+    .statement1{
+        font-size: 20px;
+        margin-left: 250px;
+        margin-bottom: 25px;
+    }
+    .statement2{
+        margin-top: -240px;
+        font-size: 20px;
+        margin-left: 600px;
+    }
+    img{
+        width: 400px;
+        margin-left: 50px;
+    }
+    p{
+        width: 400px;
+        text-align: justify;
+        margin-left: 50px;
+    }
+    h2{
+        margin-left: 50px;
+    }
+    .class2,.class3,.class4,.class5,.class6,.class7{
+        margin-top: 40px;
+    }
+    .Hyderabad .p1{
+      margin-left: 300px;
+    } 
+  
+    }
+@media screen and (max-width: 426px){
+    .Hyderabad .h2{
+        margin-left: 200px;
+
+    }
+    .Hyderabad .p1{
+        /* margin-left: -200px; */
+        padding-right: 60px;
+    }
+}
+@media screen and (max-width: 769px){
+    .Hyderabad .p1{
+        margin-left: 190px;
+    }
+}
+   
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  
